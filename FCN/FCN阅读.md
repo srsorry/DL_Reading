@@ -11,7 +11,7 @@
 
 ## 逻辑树
 
-![FCN思维导图](D:\work_DL\论文阅读\FCN\FCN思维导图.PNG)
+![FCN思维导图](https://github.com/srsorry/DL_Reading/blob/master/FCN/FCN%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 
 ## 算法
 
