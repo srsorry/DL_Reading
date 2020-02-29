@@ -11,11 +11,11 @@
 
 ## 逻辑树
 
-![pspnet思维导图](D:\work_DL\论文阅读\PSPnet\pspnet思维导图.PNG)
+![pspnet思维导图](https://github.com/srsorry/DL_Reading/blob/master/PSPnet/pspnet%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 
 ## 算法
 
-![pspnet](D:\work_DL\论文阅读\PSPnet\pspnet.PNG)
+![pspnet](https://github.com/srsorry/DL_Reading/blob/master/PSPnet/pspnet.PNG)
 
 ```python
 inputs = array([16,224,224,3])
