@@ -11,7 +11,7 @@
 
 ## 逻辑树
 
-![deeplabv1思维导图](D:\work_DL\论文阅读\DeepLabV1\deeplabv1思维导图.PNG)
+![deeplabv1思维导图](https://github.com/srsorry/DL_Reading/blob/master/deeplabV1/deeplabv1%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 
 ## 算法
 
