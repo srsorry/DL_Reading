@@ -12,7 +12,7 @@ Convolution for Semantic Image Segmentation
 
 ## 逻辑树
 
-![deeplabV3+思维导图](D:\work_DL\论文阅读\deeplabV3+思维导图.PNG)
+![deeplabV3+思维导图](https://github.com/srsorry/DL_Reading/blob/master/deeplabV3%2B/deeplabV3%2B%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.PNG)
 
 ## 算法
 
