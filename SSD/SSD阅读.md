@@ -10,7 +10,7 @@
 
 ## 逻辑树
 
-![Non-local](D:\work_DL\论文阅读\Non-local.PNG)
+![Non-local](https://github.com/srsorry/DL_Reading/blob/master/SSD/SSD.PNG)
 
 ## 算法
 
