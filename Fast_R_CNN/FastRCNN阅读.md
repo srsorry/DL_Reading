@@ -10,7 +10,7 @@
 
 ## 逻辑树
 
-![Non-local](D:\work_DL\论文阅读\Non-local.PNG)
+![Non-local](https://github.com/srsorry/DL_Reading/blob/master/Fast_R_CNN/FASTR-CNN.PNG)
 
 ## 算法
 
