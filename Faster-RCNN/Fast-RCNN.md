@@ -11,7 +11,7 @@
 
 ## 逻辑树
 
-![Non-local](D:\work_DL\论文阅读\Non-local.PNG)
+![Non-local](https://github.com/srsorry/DL_Reading/blob/master/Faster-RCNN/Faster-RCNN.PNG)
 
 ## 算法
 
@@ -49,8 +49,8 @@ L({p_i},{t_i}) = \frac{1}{N_{cls}}\sum_iL_{cls}(p_i,p^*_i)+\lambda\frac{1}{N_{re
 $$
 
 
-
-
+![Non-local](https://github.com/srsorry/DL_Reading/blob/master/Faster-RCNN/%E6%A8%A1%E5%9D%97%E6%A1%86%E5%9B%BE.jpg)
+![Non-local](https://github.com/srsorry/DL_Reading/blob/master/Faster-RCNN/%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B.jpg)
 
 ## 实验结果
 
